@@ -48,6 +48,26 @@ Storage optimized instances are designed for workloads that require high, sequen
 . windows
 
 
+**4: feature: EBS(elestic block storage) volume (disk)**
+
+. SDD
+
+. HDD
+
+. Optimized
+
+
+**5: feature: Network**
+
+. VPC (virtual private cloud)
+
+. Sbunet
+
+. ENI (network interface)
+
+. IP (public, private)
+
+
 
 
  
