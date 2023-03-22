@@ -1,7 +1,8 @@
 # AWS-compute-EC2
-introduction to AWS compute EC2
 
-**infrastructure as a service is called EC2(elastic compute cloud)**
+*introduction to AWS compute EC2*
+
+infrastructure as a service is called EC2(elastic compute cloud)
 
 **AWS global infrastructure-Regions**
 
