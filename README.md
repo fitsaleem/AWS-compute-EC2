@@ -40,5 +40,13 @@ d: Storage Optimized:
 Storage optimized instances are designed for workloads that require high, sequential read and write access to very large data sets on local storage.
 
 
+**3: feature: Operating System (AMI) Amazon Machine Image**
+
+. linux flavour
+
+. windows
+
+
+
 
  
