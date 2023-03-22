@@ -21,4 +21,22 @@ introduction to AWs compute EC2
 
 **2: feature: Instance Type**
 
+a: General purpos:
+
+these provides good balance compute memory and balanced network resources.
+
+b: Copmute Optimized:
+
+these instanc are used when the application needs high prcessors.
+
+c: Memory Optimized:
+
+these instanc are used when the application needs large amount of memory.
+
+d: Storage Optimized:
+
+Storage optimized instances are designed for workloads that require high, sequential read and write access to very large data sets on local storage.
+
+
+
  
