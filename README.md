@@ -1,12 +1,14 @@
 # AWS-compute-EC2
-introduction to AWs compute EC2
+introduction to AWS compute EC2
 
 **infrastructure as a service is called EC2(elastic compute cloud)**
 
 **AWS global infrastructure-Regions**
 
 1: regions can be a country , state or even a city.
+
 2: multipe avalibality zones (AZ) make up a region.
+
 3: zones core principle is to deploy your application for specific requirnments
 
 
