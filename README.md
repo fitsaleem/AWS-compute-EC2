@@ -68,6 +68,6 @@ Storage optimized instances are designed for workloads that require high, sequen
 . IP (public, private)
 
 
-
+.
 
  
